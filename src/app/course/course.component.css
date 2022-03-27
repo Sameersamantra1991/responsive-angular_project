@@ -5,6 +5,12 @@
 .box{
     background-color: #ffffff;
     padding:10px 20px;
+
+}
+
+button a{
+    text-decoration: none;
+    color: #eff6ff;
 }
 
 @media screen and (max-width:600px){
